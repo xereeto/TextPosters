@@ -1,0 +1,34 @@
+{
+  "name": "text-posters",
+  "version": "0.0.1",
+  "description": "Shape text into images to make awesome posters",
+  "author": "Matthew Hynes <matthew@xereeto.co.uk>",
+  "contributors": [{
+  "name": "Matthew Hynes",
+  "email": "matthew@xereeto.co.uk"
+}],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "lib/main.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/xereeto/TextPosters"
+},
+  "bugs": {
+  "url": "https://github.com/xereeto/TextPosters/issues"
+},
+  "keywords": [
+  "text",
+  "poster",
+  "ascii",
+  "asciiart"
+],
+  "dependencies": {
+    "progress": "*"
+  },
+  "preferGlobal": true,
+  "private": true,
+  "analyze": true,
+  "license": "GNU GPL v3"
+}
