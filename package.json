@@ -27,6 +27,7 @@
     "asciiart"
   ],
   "dependencies": {
+    "gm": "^1.22.0",
     "progress": "*"
   },
   "preferGlobal": true,
